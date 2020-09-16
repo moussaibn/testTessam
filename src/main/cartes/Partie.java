@@ -58,7 +58,6 @@ public class Partie {
         System.out.println("Affichage de toutes les combinaison");
 
         Partie.showAllCombinaison();
-        Partie.showAllCombinaison();
 
         System.out.println("Nombre de combinaison : " + Partie.getListCombinaisons().size());
 
