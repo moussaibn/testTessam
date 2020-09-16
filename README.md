@@ -10,8 +10,9 @@ Sur chaque branche de cette arbre on aura la combinaison precetende auquel on aj
 est possible(on ne depasse pas 26), on retrouve aussi sur la branche l'adresse des deux prochaines combinaisons.
 
 
-On sera certain de se trouve au niveau des feuilles de l'arbre qu'au moment ou la somme des element dans la combinaison vaut 26.
-De ce fait je trouvé qu'il y avait ``75025`` combinaisons de 1 et 2 pour atteindre un total de 26
+On aura fini de parcourir l'arbre lorsque ou la somme des element dans la combinaison vaut 26.
+
+Il y a donc ``75025`` combinaisons de 1 et 2 pour atteindre un total de 26
 En voila quelques unes:
 ```
 2 2 2 2 2 2 2 2 1 1 2 2 1 1 1 
